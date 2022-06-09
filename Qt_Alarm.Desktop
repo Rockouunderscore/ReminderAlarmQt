@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Alarm
+GenericName=Alarm
+Comment=Alarm
+Exec=bash ./alarm_qt.sh
+Icon=clock
+MimeType=
+NoDisplay=false
+Path=/home/rck/PycharmProjects/ReminderAlarm/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
